@@ -1,3 +1,9 @@
+
+## Start
+npx create-next-app@latest
+Typescript, Elint, Tailwild, React Routes
+src/
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
